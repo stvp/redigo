@@ -16,7 +16,7 @@ package redis_test
 
 import (
 	"fmt"
-	"github.com/garyburd/redigo/redis"
+	"github.com/stvp/redigo/redis"
 	"math"
 	"reflect"
 	"testing"

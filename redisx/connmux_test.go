@@ -19,9 +19,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/garyburd/redigo/internal/redistest"
-	"github.com/garyburd/redigo/redis"
-	"github.com/garyburd/redigo/redisx"
+	"github.com/stvp/redigo/internal/redistest"
+	"github.com/stvp/redigo/redis"
+	"github.com/stvp/redigo/redisx"
 )
 
 func TestConnMux(t *testing.T) {
