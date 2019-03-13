@@ -1,6 +1,8 @@
 Redigo
 ======
 
+This is a no-longer-maintained fork. Please use the upstream package instead.
+
 [![Build Status](https://travis-ci.org/garyburd/redigo.svg?branch=master)](https://travis-ci.org/garyburd/redigo)
 
 Redigo is a [Go](http://golang.org/) client for the [Redis](http://redis.io/) database.
